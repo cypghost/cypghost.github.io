@@ -2,7 +2,7 @@
 
 Welcome to my portfolio website's GitHub repository! This repository hosts the code and assets for my personal portfolio website, showcasing my work, skills, and achievements.
 
-![Portfolio Screenshot](Portfolio Screenshot.PNG)
+![Portfolio Screenshot](https://github.com/cypghost/cypghost.github.io/blob/main/Portfolio%20Screenshot.PNG))
 ## About Me
 
 I'm Biruk Mesfin, a Software Engineer. I am passionate about [Relevant Interests or Specializations] and love to [Briefly describe what you love doing in your field].
