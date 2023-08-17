@@ -28,9 +28,9 @@ While this repository primarily hosts the code for my portfolio, I appreciate an
 
 I'm always open to new connections and opportunities. Feel free to reach out to me:
 
-- Email: [youremail@example.com](mailto:birukmesfin246@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/biruk-mesfin/)
-- Twitter: [@YourTwitterHandle](https://twitter.com/Bi2kmes)
-- Instagram: [@YourInstagramHandle](https://instagram.com/biruk__m)
+- Email: [birukmesfin246@gmail.com](mailto:birukmesfin246@gmail.com)
+- LinkedIn: [linkedin.com/in/biruk-mesfin/](https://www.linkedin.com/in/biruk-mesfin/)
+- Twitter: [twitter.com/Bi2kmes](https://twitter.com/Bi2kmes)
+- Instagram: [instagram.com/biruk__m](https://instagram.com/biruk__m)
 
 Thank you for visiting my portfolio repository. I hope you enjoy exploring my work!
