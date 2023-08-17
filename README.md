@@ -1,4 +1,4 @@
-# Biruk Mesfin's Portfolio
+# [Biruk Mesfin's](bkmn.me) Portfolio
 
 Welcome to my portfolio website's GitHub repository! This repository hosts the code and assets for my personal portfolio website, showcasing my work, skills, and achievements.
 
