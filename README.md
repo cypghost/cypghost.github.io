@@ -2,8 +2,7 @@
 
 Welcome to my portfolio website's GitHub repository! This repository hosts the code and assets for my personal portfolio website, showcasing my work, skills, and achievements.
 
-![Portfolio Screenshot](screenshot.png)
-
+![Portfolio Screenshot](Portfolio_Screenshot.png)
 ## About Me
 
 I'm Biruk Mesfin, a Software Engineer. I am passionate about [Relevant Interests or Specializations] and love to [Briefly describe what you love doing in your field].
