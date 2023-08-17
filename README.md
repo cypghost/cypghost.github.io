@@ -1,4 +1,4 @@
-# [Biruk Mesfin's](bkmn.me) Portfolio
+# [Biruk Mesfin's](https://cypghost-github-io.vercel.app/) Portfolio
 
 Welcome to my portfolio website's GitHub repository! This repository hosts the code and assets for my personal portfolio website, showcasing my work, skills, and achievements.
 
@@ -18,7 +18,7 @@ Explore some of the key features and sections of my portfolio:
 
 ## Visit My Portfolio
 
-To explore my work and learn more about me, visit my portfolio website: [Portfolio Link](bkmn.me)
+To explore my work and learn more about me, visit my portfolio website: [Portfolio Link](https://cypghost-github-io.vercel.app/)
 
 ## Contributing
 
