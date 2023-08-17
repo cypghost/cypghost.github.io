@@ -6,7 +6,7 @@ Welcome to my portfolio website's GitHub repository! This repository hosts the c
 
 ## About Me
 
-I'm [Your Name], a [Your Profession or Field]. I am passionate about [Relevant Interests or Specializations] and love to [Briefly describe what you love doing in your field].
+I'm Biruk Mesfin, a Software Engineer. I am passionate about [Relevant Interests or Specializations] and love to [Briefly describe what you love doing in your field].
 
 ## Portfolio Highlights
 
@@ -19,7 +19,7 @@ Explore some of the key features and sections of my portfolio:
 
 ## Visit My Portfolio
 
-To explore my work and learn more about me, visit my portfolio website: [Portfolio Link](https://yourportfolio.com)
+To explore my work and learn more about me, visit my portfolio website: [Portfolio Link](bkmn.me)
 
 ## Contributing
 
@@ -29,8 +29,9 @@ While this repository primarily hosts the code for my portfolio, I appreciate an
 
 I'm always open to new connections and opportunities. Feel free to reach out to me:
 
-- Email: [youremail@example.com](mailto:youremail@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
-- Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
+- Email: [youremail@example.com](mailto:birukmesfin246@gmail.com)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/biruk-mesfin/)
+- Twitter: [@YourTwitterHandle](https://twitter.com/Bi2kmes)
+- Instagram: [@YourInstagramHandle](https://instagram.com/biruk__m)
 
 Thank you for visiting my portfolio repository. I hope you enjoy exploring my work!
